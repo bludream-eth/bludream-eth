@@ -15,7 +15,7 @@ constexpr Creator <🧙🏾> stats = {
 ```
 # Who I Am
 Just a interface designer that loves to design & code
-Currently working on websites and mobile applications in Figma :paintbrush:
+Currently working on inside of Figma :paintbrush:
 
 I am always open to hearing about different project ideas! :speech_balloon:
 
