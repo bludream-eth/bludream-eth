@@ -1,28 +1,21 @@
-# Hi, I'm BluDream.eth :cloud:
-
-[![Follow on Twitter](https://img.shields.io/twitter/follow/Bludream_eth?color=1DA1F2&label=Follow%20on%20Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbludream-eth&screen_name=Bludream.eth)
-![Follow on GitHub](https://img.shields.io/github/followers/bludream-eth?color=181717&label=Follow%20on%20GitHub&logo=Github&style=for-the-badge)
+# ✦ BluDream
 
 ```cpp
-constexpr Creator <🧙🏾> stats = {
-  .name      = "BluDream",
-  .language       = English, French,
+Crafting 🌸 beautiful interfaces & deploying polished web 
+experiences, working on 🍄 Moosh.io a free & easy to use 
+productivity enhancer and Pomodoro timer. Head over to 
+my 👾 Github page to follow along on my coding journey.
 
-  .location  = ["Olympus Mons, Mars", "Mount Olympus, Mars"]
-  .skills    = ["Web Design 🖥️", "Mobile Application Design 📞", "Creative Direction 🎨", …],
-  .interests = ["Cryptocurrency 🚶🏾‍♂️", "Web 3.0 💻", "EV's 🏎️", …],
-};
+Follow my Twitter 🐦 @bludream_eth, to stay up to date 
+with my latest projects, feel free to 💫️ contact me there! 
+My primary ENS domain name is bludream.eth, lastly, you 
+can 🌿 browse my projects down below. 
 ```
-# Who I Am
-Just a interface designer that loves to design & code
-Currently working on inside of Figma :paintbrush:
 
-I am always open to hearing about different project ideas! :speech_balloon:
+##### 🌎 CreatorVerse
 
-<details>
-  <summary> :mechanical_arm: GitHub Statistics </summary>
+##### ✋ Amondo
 
-  <br/>
-  <img align="left" alt="Bludream' GitHub ranking/ statistics" src="https://github-readme-stats.vercel.app/api?count_private=true&hide=contribs,issues,prs&include_all_commits&custom_title=Statistics&locale=en&show_icons=true&theme=dark&username=bludream-eth"/>
-  <br clear="all"/>
-</details>
+##### 🌵 ZipCactus
+
+##### 🍬 ColorCandy
