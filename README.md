@@ -6,4 +6,4 @@
 <a href="https://github.com/bludream-eth"><img alt="bludream-eth" src="https://komarev.com/ghpvc/?username=bludream-eth&color=green&style=flat-square"></a>
 </p>
 
-<h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
+<h6 align="center"> :gem: Here is a list of the Open Source projects I work on: :gem: </h6>
