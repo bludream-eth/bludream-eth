@@ -5,4 +5,4 @@
 <a href="https://github.com/bludream-eth"><img alt="bludream-eth" src="https://komarev.com/ghpvc/?username=bludream-eth&color=red&style=flat-square"></a>
 </p>
 
-<h6 align="center"> :gem: Below is a list of the Open Source projects I work on :arrow_double_down: </h6>
+<h6 align="center"> :arrow_double_down: Below is a list of the Open Source projects I work on :arrow_double_down: </h6>
